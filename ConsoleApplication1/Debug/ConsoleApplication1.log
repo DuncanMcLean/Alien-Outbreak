@@ -1,0 +1,98 @@
+﻿  CreateBackground.cpp
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(30,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(30,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(31,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(31,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(32,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(32,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(33,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(52,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(53,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(54,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateBackground.cpp(55,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(25,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(26,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(31,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(32,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(38,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\CreateHorde.cpp(44,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Alien-Outbreak.cpp
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\Alien-Outbreak.cpp(28,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\Alien-Outbreak.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\Alien-Outbreak.cpp(31,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\Alien-Outbreak.cpp(31,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\Alien-Outbreak.cpp(643,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\dunca\Desktop\publicRepos\Alien-Outbreak\ConsoleApplication1\Debug\Alien-Outbreak.exe
